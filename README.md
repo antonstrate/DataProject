@@ -18,8 +18,7 @@ is required beyond `numpy`, `scipy`, `pandas` and `matplotlib`.
 
 The work on the model project was mainly divided as follows:
 
-- **Anton Strate:** Tasks 1 and 3
-- **Cody Brinch:** Task 2
-- **Simon Fangel and Magnus Green:** Tasks 4 and 5
+- **Anton Strate and Magnus Green:** Tasks 1
+- **Cody Brinch and Simon Fangel:** Task 2
 
 In addition, all group members contributed to and discussed the different tasks throughout the project.
